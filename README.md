@@ -1,10 +1,22 @@
 # Rahul Kaushal — Portfolio
 
+
+<p align="center">
+  <img src="assets/banner.png" alt="Rahul Kaushal Portfolio Banner" width="100%">
+</p>
+
+<p align="center">
+  🔗 <strong>Live Portfolio:</strong> 
+  <a href="https://kaushalrahul.github.io/portfolio/" target="_blank">
+    https://kaushalrahul.github.io/portfolio/
+  </a>
+</p>
+
 A modern, responsive, animated personal portfolio website built with pure HTML, CSS, and JavaScript. Designed for GitHub Pages deployment with zero build step required.
 
 ## 🚀 Live Demo
 
-> Replace with your GitHub Pages URL after deployment:
+<!-- > Replace with your GitHub Pages URL after deployment: -->
 > `https://kaushalrahul.github.io/portfolio`
 
 ## 📁 Project Structure
